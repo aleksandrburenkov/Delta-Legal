@@ -1,0 +1,14 @@
+@import url("assets/css/theme-alice.min.css");
+
+.factory-flag {
+  visibility: hidden;
+}
+
+#start {
+  background: rgba(20, 18, 27, 0.8);
+  padding: 10px 5px;
+}
+
+#delta {
+  margin-top: -10px;
+}
